@@ -1,5 +1,7 @@
 {
   "name": "Enphase Envoy (DEV)",
+  "url": "https://github.com/ixperiencenl/home_assistant_custom_envoy",
+  "maintainer": "iXperience",
   "render_readme": false,
   "content_in_root": false
 }
